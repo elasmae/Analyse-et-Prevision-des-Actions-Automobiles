@@ -39,4 +39,7 @@ L’analyse principale est centrée sur **Volkswagen**, avec un code **entièrem
 - Prédictions des prix des actions avec incertitude modélisée.
 - Comparaison des performances de différents modèles de prévision.
 
+  ##  Auteur
+  -Asmae EL MAHJOUBI
+
 
