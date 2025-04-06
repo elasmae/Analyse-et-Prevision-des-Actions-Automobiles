@@ -1,6 +1,6 @@
 # Analyse des Actions de Volkswagen, BMW et Porsche
 
-## 📌 Description
+##  Description
 
 Ce projet a pour objectif d’analyser les **rendements**, la **volatilité** et les **tendances** des actions de trois grandes entreprises du secteur automobile : **Volkswagen**, **BMW** et **Porsche**.  
 À l’aide de modèles de **séries temporelles** tels que **ARIMA**, **SARIMA**, et **Prophet**, il explore les données historiques afin de fournir des **prévisions** sur les prix des actions et leur comportement futur.
@@ -9,7 +9,7 @@ L’analyse principale est centrée sur **Volkswagen**, avec un code **entièrem
 
 ---
 
-## 🗂️ Structure du projet
+##  Structure du projet
 
 ### 1. 📊 Exploration des données
 - Analyse descriptive des séries temporelles.
@@ -23,23 +23,13 @@ L’analyse principale est centrée sur **Volkswagen**, avec un code **entièrem
 
 ---
 
-## ⚙️ Technologies utilisées
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- statsmodels (ARIMA, SARIMA)
-- Prophet (Meta)
-- Jupyter Notebook
-
----
-
 ## 📈 Résultats attendus
 
 - Visualisation des séries temporelles.
 - Prédictions des prix des actions avec incertitude modélisée.
 - Comparaison des performances de différents modèles de prévision.
 
-  ##  Auteur
-  -Asmae EL MAHJOUBI
+##  Auteur
+- Asmae EL MAHJOUBI
 
 
