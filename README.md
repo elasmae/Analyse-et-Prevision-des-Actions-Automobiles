@@ -9,21 +9,21 @@ L’analyse principale est centrée sur **Volkswagen**, avec un code **entièrem
 
 ---
 
-##  Structure du projet
+##  Structure 
 
-### 1. 📊 Exploration des données
+### 1.  Exploration des données
 - Analyse descriptive des séries temporelles.
 - Visualisation des **rendements**, de la **volatilité** et des **volumes** de transaction.
 - Étude des **corrélations** entre les différentes entreprises.
 
-### 2. 🔍 Modélisation et Prévisions
+### 2.  Modélisation et Prévisions
 - Application des modèles **ARIMA**, **SARIMA** et **Prophet**.
 - Évaluation de la performance des modèles par comparaison avec les données réelles.
 - Visualisation des **prédictions** avec les **intervalles de confiance**.
 
 ---
 
-## 📈 Résultats attendus
+##  Résultats attendus
 
 - Visualisation des séries temporelles.
 - Prédictions des prix des actions avec incertitude modélisée.
